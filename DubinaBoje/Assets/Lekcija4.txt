@@ -1,0 +1,9 @@
+Zamislimo neku ljubičastu boju. Ljubičasta boja nastat će miješanjem uglavnom crvene i plave, a može imati i malo zelene. Dakle, našu ljubičastu boju možemo opisati ovim vrijednostima:
+{!}R = 125, G = 15, B = 220
+
+Za crvenu boju: 125/16 = 7, ostatak je 13 (7x16=112, 125-112=13) Broj 7 odgovara broju 7 i u heksadekadskom zapisu, a broj 13 se u heksadekadskom zapisu bilježi kao slovo d. Dakle, 125 u dekadskom zapisu zapisat ćemo kao 7d u heksadekadskom.
+
+Za zelenu boju: 15/16 = 0, ostatak je 15 Broj 0 se bilježi jednako u oba zapisa, a broj 15 u heksadekadskom zapisu ogovara slovu f. Dakle, broj 15 ćemo zapisati kao 0f.
+
+Za plavu boju: 220/16 = 13, ostatak je 12 Broj 13 u dekadskom zapisu odgovara slovu d, a broj 12 slovu c. Dakle, broj 220 ćemo zapisati kao dc.
+{!}Konačni zapis boje R = 125, G = 15, B = 220 će izgledati ovako: #7d0fdc

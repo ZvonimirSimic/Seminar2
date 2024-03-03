@@ -1,0 +1,9 @@
+Heksadekadski sustav se uobičajeno koristi za prikaz boja pri izradi internetskih stranica. Njegov zapis se sastoji od znaka ljestvi (#) (engl. Hashtag) nakon kojeg slijedi šest znakova. Znakovi koji se koriste mogu biti brojevi od 0 do 9 i slova od a do f.
+
+Dakle, osnovica heksadekadskog brojevnog sustava je broj 16. Redom se sastoji od znamenaka: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, c, d, e, f. Slovo a odgovara dekadskom broju 10, dok slovo f odgovara broju 15.
+
+Svaka boja (crvena, zelena i žuta) zapisana je s dva znaka pri čemu prva dva znaka označavaju crvenu boju, druga dva zelenu i treća dva plavu. Tako bi u heksadekadskom sustavu čistu crvenu boju zapisali na način: #ff0000.
+
+U zapisu #ff0000 vidimo da su prve dvije znamenke ff, a znak f je najviša vrijednost ovog sustava. Iduće dvije znamenke koje označavaju plavu boju su 00 iz čega zaključujemo da plava boja nije zastupljena. Isto je i sa zadnje dvije znamenke koje označavaju zelenu boju.
+
+Bilo koji dekadski zapis boje RGB sustava možemo pretvoriti u heksadekadski. Da bi izvršili pretvorbu broj dekadskog zapisa moramo podijeliti sa brojem 16 koji je baza heksadekadskog zapisa. To vrijedi za svaki od RGB kanala koji mogu imati vrijednosti od 0 do 255.

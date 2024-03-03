@@ -1,0 +1,1 @@
+U računalnoj grafici dubina boje označava koliko je bitova korišteno za prikaz određene boje jednog piksela (engl. bits per pixel - bpp). Piksel je najmanja jednica digitalne slike. Dubina boje je način pomoću kojeg možemo izraziti broj mogućih nijansi boja odnosno raspon boja tzv. gamut.

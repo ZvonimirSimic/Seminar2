@@ -1,0 +1,9 @@
+HSV ili HSB su engleski akronimi za Hue (ton), Saturation (zasićenost) i Value ili Brightness (svjetlina). Kao što smo i ranije spomenuli ton označava o kojoj se boji radi, npr. crvenoj, plavoj, zelenoj i td.
+
+U ovom slučaju ton (H) je prikazan brojem od 0° do 360° pri čemu crvena boja započinje na 0°, žuta na 60°, zelena na 120°, cijan na 180°, plava na 240°, a magenta na 300°.
+
+Zasićenost (S) označava jasnoću ili čistoću boje i iskazuje se u postotcima (%). Što je boja više zasićena postotak je veći, a maksimalna vrijednost iznosi 100%.
+
+Svjetlina (V ili B) opisuje koliko je neki ton svjetao ili taman. Možemo zamisliti kao da kroz filter crvene boje propuštamo intenzivnije ili zagasitije svjetlo. Boja filtera će se doimati jasnije boje ako je svjetlo intenzivnije nego ako je ono zagasito.
+
+Svjetlina se prikazuje u postotcima (%) pri čemu je 100% najveća svjetlina (najviše bijele), a 0% namjanja svjetlina (crna boja).

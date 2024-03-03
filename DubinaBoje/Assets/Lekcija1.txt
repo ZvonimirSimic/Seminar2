@@ -1,0 +1,19 @@
+1-bitna slika može prikazati dvije boje jer jedan bit može dati samo dvije vrijednosti – 0 ili 1. Slika koja je 2-bitna prikazat će 4 boje jer svaki pikesl raspolaže s 2 bita što može dati 4 različite kombinacije za taj piksel dok će 4-bitna slika imati raspon od 16 boja.
+
+Kod 8-bitne slike svaki piksel predstavljen je jednim bajtom. Dakle, maksimalan broj boja koji može biti prikazan za taj piksel iznosi 256 boja. U ovom slučaju 3 bita rezervirana su za crvenu, 3 bita za zelenu i 2 bita za plavu boju jer je ljudsko oko manje osjetljivo na plavu boju.
+
+Za prikaz kvalitetnih slika danas se najčešće koristi shema boja od 24 bita koja daje raspon od preko 16 milijuna boja što se naziva istinska boja (engl. True color) s obzirom da ljudsko oko može razlikovati 10 milijuna boja.
+
+!slika0.jpg
+
+Bitovi su raspoređeni na RGB komponente:
+{!}R = 8 bita = 28 = 256 nijansi crvene boje
+{!}G = 8 bita = 28 = 256 nijansi zelene boje
+{!}B = 8 bita = 28 = 256 nijansi plave boje
+{!}Današnja računala mogu koristiti i 32-bitnu boju pri čemu se 24-bita koriste za prikaz boje, a 8-bita je rezervirano za alfa kanal.
+
+U računalnim alatima za izradu i obradu digitalne slike možemo odabrati boju definirajući udio crvene (R), zelene (G) i plave (B). Ukoliko se radi o 24-bitnoj boji najviša vrijednost za pojedini kanal (crveni, zeleni ili plavi) je 255, a najniža vrijednost je 0.
+
+Ukoliko želimo prikazati čistu plavu boju možemo postaviti vrijednost plave (B) na 255, a crvene (R) i zelene (G) na 0. Za žutu boju crvenu (R) i zelenu (G) postavili bi na 255, a plavu (B) na 0. Kombinacijama vrijednosti za pojedine kanale definiramo cijeli RGB gamut.
+
+Osim definiranja boje prema RGB sustavu različiti računalni alati nude i odabir boje prema drugim sustavima poput HSL ili CMYK sustava.

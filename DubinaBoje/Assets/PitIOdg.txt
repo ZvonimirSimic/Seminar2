@@ -1,0 +1,50 @@
+Koliko različitih boja će prikazivati 7-bitna slika?
+!128
+64
+256
+192
+Kako se zapisuje čista zelena boja u heksadekadskom sustavu?
+!#00ff00
+#0000ff
+#ff0000
+#ff00ff
+Koju boju predstavlja heksadekadski zapis #0000ff?
+!Plavu
+Žutu
+Crvenu
+Zelenu
+U HSV-u, ton (H) prikazan je brojem u rasponu:
+!0° do 360°
+0° do 180°
+0° do 100°
+0° do 256°
+Niti jedno slovo u skraćenici HSV ne označava:
+!Prozirnost
+Ton
+Zasićenost
+Svjetlinu
+Koji naziv u računalnoj grafici označava koliko bitova je korišteno za prikaz određene boje jednog piksela?
+!Dubina boje
+Jačina piksela
+Vrijednost boje
+Aditivna sinteza
+Od koliko bitova se sastoji istinska boja?
+!24
+16
+8
+1
+Ako se za sliku koristi 32-bitna boja, od kojih se 24 bita koristi za boju, za što se koristi ostalih 8?
+!Alfa kanal (prozirnost)
+Svjetlina
+Ton
+Ništa od navedenog
+Koji je naziv najmanje jedinice digitalne slike?
+!Pixel
+Gamut
+RGB
+Bajt
+Kako se naziva raspon boja koji neki uređaj može prikazati?
+!Gamut
+Suptraktivna sinteza
+Alfa kanal (prozirnost)
+HSB
